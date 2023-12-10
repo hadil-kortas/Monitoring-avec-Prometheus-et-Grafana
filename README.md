@@ -22,10 +22,10 @@
 
 ![cap22](https://github.com/hadil-kortas/Monitoring-avec-Prometheus-et-Grafana/assets/97675597/4ef0d2e3-1d49-4403-91f5-c6865252d704)
 
-
+## Access Grafana
 
 ![cap23](https://github.com/hadil-kortas/Monitoring-avec-Prometheus-et-Grafana/assets/97675597/40a04d6d-d14c-42b0-94f6-31cef1b7ad86)
 
-
+## Create a dashboard in Grafana
 
 ![24](https://github.com/hadil-kortas/Monitoring-avec-Prometheus-et-Grafana/assets/97675597/6ee6c80a-ff53-4ac3-b320-65b60644a793)
