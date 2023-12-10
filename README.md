@@ -16,10 +16,13 @@
 
 ![cap20](https://github.com/hadil-kortas/Monitoring-avec-Prometheus-et-Grafana/assets/97675597/86afd86a-8bbb-4c9e-ba97-d12c1a4d885a)
 
+## Verify that Prometheus retrieves metrics
 
 ![cap21](https://github.com/hadil-kortas/Monitoring-avec-Prometheus-et-Grafana/assets/97675597/abdd7cb9-afd5-4f90-bc64-e599962db022)
 
 ![cap22](https://github.com/hadil-kortas/Monitoring-avec-Prometheus-et-Grafana/assets/97675597/4ef0d2e3-1d49-4403-91f5-c6865252d704)
+
+
 
 ![cap23](https://github.com/hadil-kortas/Monitoring-avec-Prometheus-et-Grafana/assets/97675597/40a04d6d-d14c-42b0-94f6-31cef1b7ad86)
 
